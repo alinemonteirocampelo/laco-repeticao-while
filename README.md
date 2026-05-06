@@ -15,7 +15,7 @@ while (numero < 0) {
 alert("Parabéns! Você digitou o número: " + numero);
 ~~~~
 ---
-### 2) O usuário pode digitar notas (de 0 a 10) indefinidamente. O programa só deve parar quando ele digitar um número negativo. Depois, deve exibir a média das notas. 📈]
+### 2) O usuário pode digitar notas (de 0 a 10) indefinidamente. O programa só deve parar quando ele digitar um número negativo. Depois, deve exibir a média das notas. 📈
 
 ~~~~
 let somaDasNotas = 0;
